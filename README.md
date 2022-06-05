@@ -1,13 +1,13 @@
 ![MasterHead](https://github.com/harshraj9988/harshraj9988/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
-<h3 align="center">A passionate android developer from India</h3>
-<img align="right" alt="Android" width="350" src="http://pointapp.org/wp-content/uploads/2019/12/VwDf.gif">
+<h3 align="center">A passionate android developer from India<br>Data structures & algorithms on LeetCode<br>Competitive programming on CodeChef</h3>
+<img align="right" alt="Android" width="200" src="https://github.com/harshraj9988/harshraj9988/blob/main/hello%20(2).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshraj9988&label=Profile%20views&color=0e75b6&style=flat" alt="harshraj9988" /> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose and Android with Kotlin**
+- 🌱 I’m currently learning **Jetpack Compose, Android with Kotlin & DSA**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android & Tech**
 
 - 📫 How to reach me **harshraj9988@gmail.com**
 
