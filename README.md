@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/harshraj9988/harshraj9988/blob/main/banner.png)
+![MasterHead](https://github.com/harshraj9988/harshraj9988/blob/main/gif2.gif)
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
 <h3 align="center">A passionate android developer<br> <br>Data structures & algorithms on LeetCode<br>Competitive programming on CodeChef</h3>
 <img align="right" alt="Android" width="200" src="https://github.com/harshraj9988/harshraj9988/blob/main/hello%20(2).gif">
