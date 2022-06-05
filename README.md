@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/1*w2X7ExLGBzb-iznRW1rAVw.jpeg)
+![MasterHead](https://github.com/harshraj9988/harshraj9988/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
 <h3 align="center">A passionate android developer from India</h3>
 <img align="right" alt="Android" width="350" src="http://pointapp.org/wp-content/uploads/2019/12/VwDf.gif">
