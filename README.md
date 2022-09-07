@@ -24,5 +24,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshraj9988&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="harshraj9988" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshraj9988&show_icons=true&theme=cobalt&locale=en&custom_title=My GitHub Stats" alt="harshraj9988" /></p>
-
