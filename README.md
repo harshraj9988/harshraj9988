@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/harshraj9988/harshraj9988/blob/main/gif2.gif)
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
-<h3 align="center">A passionate android developer<br> <br>Data structures & algorithms on LeetCode<br>Competitive programming on CodeChef</h3>
+<h3 align="center">A passionate android developer<br> <br>Data structures & algorithms on LeetCode</h3>
 <img align="right" alt="Android" width="200" src="https://github.com/harshraj9988/harshraj9988/blob/main/hello%20(2).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshraj9988&label=Profile%20views&color=0e75b6&style=flat" alt="harshraj9988" /> </p>
